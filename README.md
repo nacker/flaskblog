@@ -1,2 +1,2 @@
 # flaskblog
-二哥和flask博客的故事
+二哥和flask的故事
